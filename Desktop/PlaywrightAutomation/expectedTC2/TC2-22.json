@@ -13,6 +13,18 @@
     },
     {
         "Indent": "2",
+        "Issue Key": "PS-19",
+        "Link": "duplicates",
+        "Issue Type": "Bug",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Highest",
+        "Assignee": "",
+        "Status": "In Progress",
+        "Summary": "AI obstacle detection malfunction."
+    },
+    {
+        "Indent": "2",
         "Issue Key": "TP-4",
         "Link": "relates to",
         "Issue Type": "Story",

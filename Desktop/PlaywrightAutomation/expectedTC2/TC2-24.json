@@ -7,6 +7,12 @@
     },
     {
         "Indent": "2",
+        "Issue Key": "PS-19",
+        "Link": "duplicates",
+        "Assignee": ""
+    },
+    {
+        "Indent": "2",
         "Issue Key": "TP-4",
         "Link": "relates to",
         "Assignee": ""

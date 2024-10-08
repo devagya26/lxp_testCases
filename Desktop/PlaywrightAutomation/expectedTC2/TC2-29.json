@@ -1,1 +1,134 @@
-[{"Indent":"1","Issue Key":"TP-1","Link":"","Issue Type":"Epic","Story Points":"","Fix versions":"","Priority":"High","Assignee":"Sonu Kumari","Status":"In Progress","Summary":"Design the exterior of the car."},{"Indent":"2","Issue Key":"TP-4","Link":"relates to","Issue Type":"Story","Story Points":"","Fix versions":"","Priority":"Highest","Assignee":"","Status":"In Progress","Summary":"Design innovative headlights."},{"Indent":"3","Issue Key":"TP-9","Link":"is blocked by","Issue Type":"Task","Story Points":"","Fix versions":"","Priority":"Lowest","Assignee":"Sonu Kumari","Status":"Done","Summary":"Prototype Headlight Design."},{"Indent":"4","Issue Key":"TP-17","Link":"blocks","Issue Type":"Bug","Story Points":"","Fix versions":"","Priority":"Lowest","Assignee":"Sonu Kumari","Status":"Selected for Development","Summary":"Seat Adjustment Motor Failing."},{"Indent":"2","Issue Key":"TP-3","Link":"relates to","Issue Type":"Story","Story Points":"","Fix versions":"","Priority":"Custom Priority","Assignee":"Monika Valecha","Status":"Selected for Development","Summary":"Develop aerodynamic design for the car body."},{"Indent":"3","Issue Key":"TP-8","Link":"is blocked by","Issue Type":"Task","Story Points":"","Fix versions":"","Priority":"Medium","Assignee":"","Status":"Backlog","Summary":"Create Aerodynamic Wind Tunnel Test Plan"},{"Indent":"4","Issue Key":"TP-14","Link":"Subtasks","Issue Type":"Sub-task","Story Points":"","Fix versions":"","Priority":"Medium","Assignee":"","Status":"Backlog","Summary":"Collect Wind Tunnel Data."},{"Indent":"4","Issue Key":"TP-16","Link":"blocks","Issue Type":"Bug","Story Points":"","Fix versions":"","Priority":"Medium","Assignee":"","Status":"In Progress","Summary":"Headlight Prototype Flickering."}]
+[
+    {
+        "Indent": "1",
+        "Issue Key": "TP-1",
+        "Link": "",
+        "Issue Type": "Epic",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "High",
+        "Assignee": "Sonu Kumari",
+        "Status": "In Progress",
+        "Summary": "Design the exterior of the car."
+    },
+    {
+        "Indent": "2",
+        "Issue Key": "PS-19",
+        "Link": "duplicates",
+        "Issue Type": "Bug",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Highest",
+        "Assignee": "",
+        "Status": "In Progress",
+        "Summary": "AI obstacle detection malfunction."
+    },
+    {
+        "Indent": "3",
+        "Issue Key": "PS-12",
+        "Link": "is blocked by",
+        "Issue Type": "Task",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "High",
+        "Assignee": "Monika Valecha",
+        "Status": "In Progress",
+        "Summary": "Implement AI obstacle detection."
+    },
+    {
+        "Indent": "4",
+        "Issue Key": "PS-7",
+        "Link": "blocks",
+        "Issue Type": "Story",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "High",
+        "Assignee": "sonu",
+        "Status": "To Do",
+        "Summary": "Implement AI navigation."
+    },
+    {
+        "Indent": "2",
+        "Issue Key": "TP-4",
+        "Link": "relates to",
+        "Issue Type": "Story",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Highest",
+        "Assignee": "",
+        "Status": "In Progress",
+        "Summary": "Design innovative headlights."
+    },
+    {
+        "Indent": "3",
+        "Issue Key": "TP-9",
+        "Link": "is blocked by",
+        "Issue Type": "Task",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Lowest",
+        "Assignee": "Sonu Kumari",
+        "Status": "Done",
+        "Summary": "Prototype Headlight Design."
+    },
+    {
+        "Indent": "4",
+        "Issue Key": "TP-17",
+        "Link": "blocks",
+        "Issue Type": "Bug",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Lowest",
+        "Assignee": "Sonu Kumari",
+        "Status": "Selected for Development",
+        "Summary": "Seat Adjustment Motor Failing."
+    },
+    {
+        "Indent": "2",
+        "Issue Key": "TP-3",
+        "Link": "relates to",
+        "Issue Type": "Story",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Custom Priority",
+        "Assignee": "Monika Valecha",
+        "Status": "Selected for Development",
+        "Summary": "Develop aerodynamic design for the car body."
+    },
+    {
+        "Indent": "3",
+        "Issue Key": "TP-8",
+        "Link": "is blocked by",
+        "Issue Type": "Task",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Medium",
+        "Assignee": "",
+        "Status": "Backlog",
+        "Summary": "Create Aerodynamic Wind Tunnel Test Plan"
+    },
+    {
+        "Indent": "4",
+        "Issue Key": "TP-14",
+        "Link": "Subtasks",
+        "Issue Type": "Sub-task",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Medium",
+        "Assignee": "",
+        "Status": "Backlog",
+        "Summary": "Collect Wind Tunnel Data."
+    },
+    {
+        "Indent": "4",
+        "Issue Key": "TP-16",
+        "Link": "blocks",
+        "Issue Type": "Bug",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Medium",
+        "Assignee": "",
+        "Status": "In Progress",
+        "Summary": "Headlight Prototype Flickering."
+    }
+]

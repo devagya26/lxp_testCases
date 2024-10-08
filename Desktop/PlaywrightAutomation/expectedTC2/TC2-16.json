@@ -1,1 +1,26 @@
-[{"Indent":"1","Issue Key":"TP-1","Link":"","Issue Type":"Epic","Story Points":"","Fix versions":"","Priority":"High","Assignee":"Sonu Kumari","Status":"In Progress","Summary":"Design the exterior of the car."}]
+[
+    {
+        "Indent": "1",
+        "Issue Key": "TP-1",
+        "Link": "",
+        "Issue Type": "Epic",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "High",
+        "Assignee": "Sonu Kumari",
+        "Status": "In Progress",
+        "Summary": "Design the exterior of the car."
+    },
+    {
+        "Indent": "2",
+        "Issue Key": "PS-19",
+        "Link": "duplicates",
+        "Issue Type": "Bug",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "Highest",
+        "Assignee": "",
+        "Status": "In Progress",
+        "Summary": "AI obstacle detection malfunction."
+    }
+]

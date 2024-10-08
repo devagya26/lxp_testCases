@@ -1,1 +1,14 @@
-[{"Indent":"1","Issue Key":"TP-1","Link":"","Issue Type":"Epic","Story Points":"","Fix versions":"","Priority":"High","Assignee":"Sonu Kumari","Status":"In Progress","Summary":"Design the exterior of the car."}]
+[
+    {
+        "Indent": "1",
+        "Issue Key": "TP-1",
+        "Link": "",
+        "Issue Type": "Epic",
+        "Story Points": "",
+        "Fix versions": "",
+        "Priority": "High",
+        "Assignee": "Sonu Kumari",
+        "Status": "In Progress",
+        "Summary": "Design the exterior of the car."
+    }
+]
