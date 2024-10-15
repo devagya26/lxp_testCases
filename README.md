@@ -6,3 +6,5 @@
 
 # There is a *login.json* json file (this has the login Id & Password for Jira)
 
+# There is new variables.js file that contains URL for iFrame.
+
